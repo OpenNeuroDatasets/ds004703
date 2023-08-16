@@ -1,0 +1,149 @@
+name	type	units	low_cutoff	high_cutoff	status	status_description
+LA1	SEEG	uV	512	n/a	good	n/a
+LA2	SEEG	uV	512	n/a	good	n/a
+LA3	SEEG	uV	512	n/a	good	n/a
+LA4	SEEG	uV	512	n/a	good	n/a
+LA5	SEEG	uV	512	n/a	good	n/a
+LA6	SEEG	uV	512	n/a	bad	epilepsy
+LA7	SEEG	uV	512	n/a	bad	epilepsy
+LA8	SEEG	uV	512	n/a	bad	epilepsy
+LA9	SEEG	uV	512	n/a	bad	epilepsy
+LA10	SEEG	uV	512	n/a	good	n/a
+LHH1	SEEG	uV	512	n/a	good	n/a
+LHH2	SEEG	uV	512	n/a	good	n/a
+LHH3	SEEG	uV	512	n/a	good	n/a
+LHH4	SEEG	uV	512	n/a	bad	epilepsy
+LHH5	SEEG	uV	512	n/a	bad	epilepsy
+LHH6	SEEG	uV	512	n/a	bad	epilepsy
+LHH7	SEEG	uV	512	n/a	bad	epilepsy
+LHH8	SEEG	uV	512	n/a	bad	epilepsy
+LHH9	SEEG	uV	512	n/a	bad	epilepsy
+LHH10	SEEG	uV	512	n/a	good	n/a
+LHT1	SEEG	uV	512	n/a	good	n/a
+LHT2	SEEG	uV	512	n/a	good	n/a
+LHT3	SEEG	uV	512	n/a	good	n/a
+LHT4	SEEG	uV	512	n/a	good	n/a
+LHT5	SEEG	uV	512	n/a	good	n/a
+LHT6	SEEG	uV	512	n/a	bad	epilepsy
+LHT7	SEEG	uV	512	n/a	bad	epilepsy
+LHT8	SEEG	uV	512	n/a	bad	epilepsy
+LHT9	SEEG	uV	512	n/a	bad	epilepsy
+LHT10	SEEG	uV	512	n/a	good	n/a
+RHH1	SEEG	uV	512	n/a	bad	epilepsy
+RHH2	SEEG	uV	512	n/a	bad	epilepsy
+RHH3	SEEG	uV	512	n/a	bad	epilepsy
+RHH4	SEEG	uV	512	n/a	bad	epilepsy
+RHH5	SEEG	uV	512	n/a	bad	epilepsy
+RHH6	SEEG	uV	512	n/a	bad	epilepsy
+RHH7	SEEG	uV	512	n/a	bad	epilepsy
+RHH8	SEEG	uV	512	n/a	bad	epilepsy
+RHH9	SEEG	uV	512	n/a	bad	epilepsy
+RHH10	SEEG	uV	512	n/a	bad	epilepsy
+Grid A1	ECOG	uV	512	n/a	bad	epilepsy
+Grid A2	ECOG	uV	512	n/a	bad	epilepsy
+Grid A3	ECOG	uV	512	n/a	good	n/a
+Grid A4	ECOG	uV	512	n/a	good	n/a
+Grid A5	ECOG	uV	512	n/a	good	n/a
+Grid A6	ECOG	uV	512	n/a	bad	epilepsy
+Grid A7	ECOG	uV	512	n/a	bad	epilepsy
+Grid A8	ECOG	uV	512	n/a	good	n/a
+Grid A9	ECOG	uV	512	n/a	good	n/a
+Grid A10	ECOG	uV	512	n/a	good	n/a
+Grid A11	ECOG	uV	512	n/a	bad	epilepsy
+Grid A12	ECOG	uV	512	n/a	bad	epilepsy
+Grid A13	ECOG	uV	512	n/a	good	n/a
+Grid A14	ECOG	uV	512	n/a	good	n/a
+Grid A15	ECOG	uV	512	n/a	bad	epilepsy
+Grid A16	ECOG	uV	512	n/a	bad	epilepsy
+Grid A17	ECOG	uV	512	n/a	bad	epilepsy
+Grid A18	ECOG	uV	512	n/a	bad	epilepsy
+Grid A19	ECOG	uV	512	n/a	good	n/a
+Grid A20	ECOG	uV	512	n/a	good	n/a
+LIF1	SEEG	uV	512	n/a	good	n/a
+LIF2	SEEG	uV	512	n/a	good	n/a
+LIF3	SEEG	uV	512	n/a	good	n/a
+LIF4	SEEG	uV	512	n/a	good	n/a
+LPP1	SEEG	uV	512	n/a	bad	epilepsy
+LPP2	SEEG	uV	512	n/a	bad	epilepsy
+LPP3	SEEG	uV	512	n/a	bad	epilepsy
+LPP4	SEEG	uV	512	n/a	bad	epilepsy
+LST1	SEEG	uV	512	n/a	good	n/a
+LST2	SEEG	uV	512	n/a	bad	epilepsy
+LST3	SEEG	uV	512	n/a	bad	epilepsy
+LST4	SEEG	uV	512	n/a	bad	epilepsy
+LST5	SEEG	uV	512	n/a	bad	epilepsy
+LST6	SEEG	uV	512	n/a	good	n/a
+LSF1	SEEG	uV	512	n/a	good	n/a
+LSF2	SEEG	uV	512	n/a	good	n/a
+LSF3	SEEG	uV	512	n/a	good	n/a
+LSF4	SEEG	uV	512	n/a	good	n/a
+Fp1	EEG	uV	512	n/a	bad	noise
+F7	EEG	uV	512	n/a	bad	noise
+T3	EEG	uV	512	n/a	bad	noise
+T5	EEG	uV	512	n/a	bad	noise
+O1	EEG	uV	512	n/a	bad	noise
+F3	EEG	uV	512	n/a	bad	noise
+C3	EEG	uV	512	n/a	bad	noise
+P3	EEG	uV	512	n/a	bad	noise
+Fz	EEG	uV	512	n/a	bad	noise
+Cz	EEG	uV	512	n/a	bad	noise
+Pz	EEG	uV	512	n/a	bad	noise
+Fp2	EEG	uV	512	n/a	bad	noise
+F8	EEG	uV	512	n/a	bad	noise
+T4	EEG	uV	512	n/a	bad	noise
+T6	EEG	uV	512	n/a	bad	noise
+O2	EEG	uV	512	n/a	bad	noise
+F4	EEG	uV	512	n/a	bad	noise
+C4	EEG	uV	512	n/a	bad	noise
+P4	EEG	uV	512	n/a	bad	noise
+EKG2	ECG	uV	512	n/a	good	n/a
+EKG4	ECG	uV	512	n/a	good	n/a
+C100	OTHER	uV	512	n/a	bad	noise
+C101	OTHER	uV	512	n/a	bad	noise
+C102	OTHER	uV	512	n/a	bad	noise
+C103	OTHER	uV	512	n/a	bad	noise
+C104	OTHER	uV	512	n/a	bad	noise
+C105	OTHER	uV	512	n/a	bad	noise
+C106	OTHER	uV	512	n/a	bad	noise
+C107	OTHER	uV	512	n/a	bad	noise
+C108	OTHER	uV	512	n/a	bad	noise
+C109	OTHER	uV	512	n/a	bad	noise
+C110	OTHER	uV	512	n/a	bad	noise
+C111	OTHER	uV	512	n/a	bad	noise
+C112	OTHER	uV	512	n/a	bad	noise
+C113	OTHER	uV	512	n/a	bad	noise
+C114	OTHER	uV	512	n/a	bad	noise
+C115	OTHER	uV	512	n/a	bad	noise
+C116	OTHER	uV	512	n/a	bad	noise
+C117	OTHER	uV	512	n/a	bad	noise
+C118	OTHER	uV	512	n/a	bad	noise
+C119	OTHER	uV	512	n/a	bad	noise
+C120	OTHER	uV	512	n/a	bad	noise
+C121	OTHER	uV	512	n/a	bad	noise
+C122	OTHER	uV	512	n/a	bad	noise
+C123	OTHER	uV	512	n/a	bad	noise
+C124	OTHER	uV	512	n/a	bad	noise
+C125	OTHER	uV	512	n/a	bad	noise
+C126	OTHER	uV	512	n/a	bad	noise
+C127	OTHER	uV	512	n/a	bad	noise
+C128	OTHER	uV	512	n/a	bad	noise
+DC1	MISC	n/a	512	n/a	good	simultaneously recorded room audio
+DC2	MISC	n/a	512	n/a	bad	noise
+DC3	MISC	n/a	512	n/a	bad	noise
+DC4	MISC	n/a	512	n/a	bad	noise
+DC5	MISC	n/a	512	n/a	bad	noise
+DC6	MISC	n/a	512	n/a	bad	noise
+DC7	MISC	n/a	512	n/a	bad	noise
+DC8	MISC	n/a	512	n/a	bad	noise
+DC9	MISC	n/a	512	n/a	bad	noise
+DC10	MISC	n/a	512	n/a	bad	noise
+DC11	MISC	n/a	512	n/a	bad	noise
+DC12	MISC	n/a	512	n/a	bad	noise
+DC13	MISC	n/a	512	n/a	bad	noise
+DC14	MISC	n/a	512	n/a	bad	noise
+DC15	MISC	n/a	512	n/a	bad	noise
+DC16	MISC	n/a	512	n/a	bad	noise
+TRIG	TRIG	n/a	n/a	n/a	bad	noise
+OSAT	MISC	n/a	512	n/a	bad	noise
+PR	MISC	n/a	512	n/a	bad	noise
+STI 014	MISC	n/a	512	n/a	bad	noise
