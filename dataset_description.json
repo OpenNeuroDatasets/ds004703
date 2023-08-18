@@ -1,5 +1,5 @@
 {
-    "Name": "iEEG Passive listening to natural speech",
+    "Name": "sEEG Passive listening to natural speech",
     "BIDSVersion": "1.6.0",
     "Authors": [
         "Anna Mai",
